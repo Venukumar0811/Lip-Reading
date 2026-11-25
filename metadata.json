@@ -1,0 +1,9 @@
+
+{
+  "name": "Gemini Live Transcribe",
+  "description": "A high-performance real-time speech-to-text application with live webcam preview and subtitle overlays.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
